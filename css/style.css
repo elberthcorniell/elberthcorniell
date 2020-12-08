@@ -32,7 +32,7 @@ a {
 }
 
 a:hover {
-  color: #03dac6;
+  color: #ED1C24;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -42,7 +42,7 @@ a:hover {
 }
 
 .color-a {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .color-d {
@@ -93,7 +93,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #03dac6;
+  background-color: #ED1C24;
 }
 
 .overlay-mf {
@@ -163,7 +163,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   margin: 0 auto;
 }
 
@@ -190,7 +190,7 @@ span.title-s {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   width: 100px;
   bottom: -12px;
 }
@@ -227,12 +227,12 @@ span.title-s {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #03dac6;
+  box-shadow: 0 0 0 3px #ED1C24;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #03dac6;
+  background-color: #ED1C24;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -257,7 +257,7 @@ span.title-s {
 }
 
 .list-ico span {
-  color: #03dac6;
+  color: #ED1C24;
   margin-right: 10px;
 }
 
@@ -271,7 +271,7 @@ span.title-s {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #03dac6;
+  box-shadow: 0 0 0 10px #ED1C24;
   display: block;
 }
 
@@ -318,7 +318,7 @@ span.title-s {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   opacity: .7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -337,7 +337,7 @@ span.title-s {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #03dac6;
+  background: #ED1C24;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -375,7 +375,7 @@ span.title-s {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #03dac6;
+  border-top: 6px solid #ED1C24;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -496,18 +496,18 @@ span.title-s {
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #03dac6;
+  background-color: #ED1C24;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
@@ -543,13 +543,13 @@ span.title-s {
 }
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
-  background-color: #03dac6;
+  background-color: #ED1C24;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .navbar-b .dropdown-menu .dropdown-item.active {
-  background-color: #03dac6;
+  background-color: #ED1C24;
 }
 
 /*--/ Hamburger Navbar /--*/
@@ -663,7 +663,7 @@ span.title-s {
 
 .intro-single .breadcrumb {
   background-color: transparent;
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .intro-single .breadcrumb .breadcrumb-item:before {
@@ -708,7 +708,7 @@ span.title-s {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-image: linear-gradient(#03dac6 90%, white);
+  background-image: linear-gradient(#ED1C24 90%, white);
 }
 
 /*======================================
@@ -725,7 +725,7 @@ span.title-s {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -810,17 +810,17 @@ span.title-s {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #03dac6;
+  color: #ED1C24;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .work-content .w-like .num-like {
@@ -863,7 +863,7 @@ span.title-s {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #03dac6;
+  color: #ED1C24;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -896,7 +896,7 @@ span.title-s {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   border-radius: 4px;
 }
 
@@ -950,7 +950,7 @@ span.title-s {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #03dac6;
+  border-left: 4px solid #ED1C24;
   margin-top: 1rem;
 }
 
@@ -960,7 +960,7 @@ span.title-s {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -968,7 +968,7 @@ span.title-s {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #03dac6;
+  border-left: 4px solid #ED1C24;
   padding: 18px;
   font-style: italic;
 }
@@ -1000,7 +1000,7 @@ span.title-s {
 }
 
 .box-comments .list-comments a {
-  color: #03dac6;
+  color: #ED1C24;
 }
 
 .box-comments .list-comments span {
@@ -1017,7 +1017,7 @@ span.title-s {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #03dac6;
+  border-left: 5px solid #ED1C24;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1034,7 +1034,7 @@ span.title-s {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   top: 20px;
 }
 
@@ -1045,8 +1045,8 @@ span.title-s {
 }
 
 .sidebar-search .btn-search {
-  background-color: #03dac6;
-  border-color: #03dac6;
+  background-color: #ED1C24;
+  border-color: #ED1C24;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1054,7 +1054,7 @@ span.title-s {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #03dac6;
+  background-color: #ED1C24;
   padding: .2rem .6rem;
   margin-bottom: .5rem;
   border-radius: 15px;
@@ -1103,8 +1103,8 @@ footer .credits a {
 ======================================*/
 
 #sendmessage {
-  color: #03dac6;
-  border: 1px solid #03dac6;
+  color: #ED1C24;
+  border: 1px solid #ED1C24;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1167,7 +1167,7 @@ footer .credits a {
 }
 
 .button-a {
-  background-color: #03dac6;
+  background-color: #ED1C24;
   color: #fff;
   border-color: #cde1f8;
 }
