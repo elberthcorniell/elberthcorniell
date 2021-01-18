@@ -1257,6 +1257,16 @@ footer .credits a {
   }
 }
 
+.lead {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+a > i {
+  color: white;
+  font-size: 25px;
+  padding: 0 10px;
+}
+
 @media (min-width: 992px) {
   .testimonial-box .description {
     padding: 0 8rem;
