@@ -1,0 +1,31 @@
+{
+  "name": "elberthcorniell",
+  "version": "1.0.0",
+  "description": "![](./capture.png)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test",
+    "webpack": "webpack --watch",
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elberthcorniell/elberthcorniell.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Elbert Corniell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elberthcorniell/elberthcorniell/issues"
+  },
+  "homepage": "https://github.com/elberthcorniell/elberthcorniell#readme",
+  "dependencies": {
+    "emailjs-com": "^2.6.4"
+  }
+}
