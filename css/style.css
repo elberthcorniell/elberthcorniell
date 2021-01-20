@@ -1267,6 +1267,28 @@ a > i {
   padding: 0 10px;
 }
 
+.skill-logo-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+
+.skill-logo {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+}
+
+.skill-logo > img {
+  width: calc(100% - 40px);
+  margin: 20px 0;
+  text-align: center;
+  
+}
+
 @media (min-width: 992px) {
   .testimonial-box .description {
     padding: 0 8rem;
